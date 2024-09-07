@@ -19,6 +19,7 @@
 | Timer ⏳ | Timer | ❌ | [GitHub 🐱](https://github.com/vikdevelop/timer) | - | - | - |
 | Programming IDE 🧑‍💻 | JetBrains Toolbox | ❌ | ❌ | - | - | - |
 | Code Editor 👩‍💻 |‌ VS Code |‌ [➡️➡️➡️](https://code.visualstudio.com) | [➡️➡️➡️](https://github.com/microsoft/vscode) | - | - | - |
+| Task Manager+Todoist+Nextcloud 🆒 | Planify | ❌ | [GitHub 🐱](https://github.com/alainm23/planify) | - | - |
 
 
 </div>
