@@ -2,7 +2,7 @@
 
 # StarterPack 📦
 
-### my FOSS collection for Linux (Mint) and Android devices and + my personal config
+### my FOOSS (Free Or Open Source 😄) collection for Linux (Mint) and Android devices and + my personal config
 </div>
 
 <div align="center">
@@ -16,6 +16,9 @@
 | Download Manager 🥷 | FileCentipede | [➡️➡️➡️](https://filecxx.com) | [GitHub 🐱](https://github.com/filecxx/FileCentipede) | - | - | - |
 | Screenshot 🔥 | Flameshot | [➡️➡️➡️](https://flameshot.org) | [GitHub 🐱](https://github.com/flameshot-org/flameshot) | - | - | - |
 | Share Files (AirDrop) 🔮 | LocalSend | [➡️➡️➡️](https://localsend.org/) | [GitHub 🐱](https://github.com/localsend/localsend) | - | - | - |
+| Timer ⏳ | Timer | ❌ | [GitHub 🐱](https://github.com/vikdevelop/timer) | - | - | - |
+| Programming IDE 🧑‍💻 | JetBrains Toolbox | ❌ | ❌ | - | - | - |
+| Code Editor 👩‍💻 |‌ VS Code |‌ [➡️➡️➡️](https://code.visualstudio.com) | [➡️➡️➡️](https://github.com/microsoft/vscode) | - | - | - |
 
 
 </div>
