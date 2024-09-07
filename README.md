@@ -9,10 +9,10 @@
 
 **Linux Mint** 🐉
 
-| Music Player 🎧 | Website                           | [Source](https://gitlab.gnome.org/World/amberol) | [Flathub](https://flathub.org/apps/io.bassi.Amberol) | [Snap](https://snapcraft.io/amberol) | Last Commit | Last Release | My Config |
-| --------------- | --------------------------------- | ------------------------------------------------ | ---------------------------------------------------- | ------------------------------------ | ----------- | ------------ | --------- |
-| BitWarden 🔓    | [Website](https://bitwarden.com/) | []                                             |                                                      |                                      |             |              |           |
-|                 |                                   |                                                  |                                                      |                                      |             |              |           |
+|   | Name |‌ Website | Source | Last Commit | Last Release | My Config |
+| - | ---- | ------- | ------ | ----------- | ------------ | --------- |
+| Music Player 🎧 | Amberol |‌ ❌ |‌ [GitLab 🦊](https://gitlab.gnome.org/World/amberol) | - | - | - |
+| Password Manager 🔓 | BitWarden | [official](https://bitwarden.com/) | [GitHub 🐱](https://github.com/bitwarden/clients) | - | - | - |
 
 
 </div>
