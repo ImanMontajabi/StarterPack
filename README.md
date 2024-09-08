@@ -12,10 +12,10 @@
 |   | Name |‌ Website | Source | Last Commit | Last Release | My Config |
 | - | ---- | ------- | ------ | ----------- | ------------ | --------- |
 | Music Player 🎧 | Amberol |‌ ❌ |‌ [GitLab 🦊](https://gitlab.gnome.org/World/amberol) | - | - | - |
-| Password Manager 🔓 | BitWarden | [➡️➡️➡️](https://bitwarden.com/) | [GitHub 🐱](https://github.com/bitwarden/clients) | - | - | - |
+| Password Manager 🔓 | BitWarden | [➡️➡️➡️](https://bitwarden.com) | [GitHub 🐱](https://github.com/bitwarden/clients) | - | - | - |
 | Download Manager 📥 | FileCentipede | [➡️➡️➡️](https://filecxx.com) | [GitHub 🐱](https://github.com/filecxx/FileCentipede) | - | - | - |
 | Screenshot 🔥 | Flameshot | [➡️➡️➡️](https://flameshot.org) | [GitHub 🐱](https://github.com/flameshot-org/flameshot) | - | - | - |
-| Share Files (AirDrop) 🔮 | LocalSend | [➡️➡️➡️](https://localsend.org/) | [GitHub 🐱](https://github.com/localsend/localsend) | - | - | - |
+| Share Files (AirDrop) 🔮 | LocalSend | [➡️➡️➡️](https://localsend.org) | [GitHub 🐱](https://github.com/localsend/localsend) | - | - | - |
 | Timer ⏳ | Timer | ❌ | [GitHub 🐱](https://github.com/vikdevelop/timer) | - | - | - |
 | Programming IDE 🧑‍💻 | JetBrains Toolbox | ❌ | ❌ | - | - | - |
 | Code Editor 👩‍💻 |‌ VS Code |‌ [➡️➡️➡️](https://code.visualstudio.com) | [GitHub 🐱](https://github.com/microsoft/vscode) | - | - | - |
@@ -32,6 +32,16 @@
 | Calculator 🔢 |‌ Qalculate! | [➡️➡️➡️](http://qalculate.github.io) |‌ [GitHub 🐱](https://github.com/Qalculate/qalculate-qt) | - | - | - |
 | Video Player 📼 |‌ VLC | [➡️➡️➡️](https://www.videolan.org/vlc) | [GitLab 🦊](https://code.videolan.org/videolan/vlc) | - | - | - |
 
+
+## Android 🤖
+
+|   | Name |‌ Website | Source | Last Commit | Last Release | My Config |
+| - | ---- | ------- | ------ | ----------- | ------------ | --------- |
+| YouTube Alternative 📺 |‌ LibreTube | [➡️➡️➡️](https://libretube.dev) |‌ [GitHub 🐱](https://github.com/libre-tube/LibreTube) | - | - | - |
+| YouTube Downloader 📥 | Seal | ❌ | [GitHub 🐱](https://github.com/JunkFood02/Seal) | - | - | - |
+| Password Manager 🔓 | BitWarden | [➡️➡️➡️](https://bitwarden.com) | [GitHub 🐱](https://github.com/bitwarden/android) | - | - | - |
+| Share Files (AirDrop) 🔮 | LocalSend | [➡️➡️➡️](https://localsend.org) | [GitHub 🐱](https://github.com/localsend/localsend) | - | - | - |
+| Update APKs |‌ Obtainium | [➡️➡️➡️](https://obtainium.imranr.dev) | [GitHub 🐱] | - | - | - |
 
 </div>
 
