@@ -3,7 +3,9 @@
 # StarterPack 📦
 
 #### My FOOSS (Free Or Open Source 😄) Collection for Linux and Android Devices + My Personal Config
-#### Contributions and Pull Requests are welcome! Feel free to share your Starter Pack (e.g., for gaming, video editing, etc.).
+
+
+> Contributions and Pull Requests are welcome! Feel free to share your Starter Pack (e.g., for gaming, video editing, etc.).
 </div>
 
 </br>
