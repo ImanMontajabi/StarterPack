@@ -37,7 +37,7 @@
 | Icon Pack Theme 👔 | Papirus Icon |‌ ❌ | [GitHub 🐱](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) | - | - | - |
 | Folder Theme 👘 | Papirus Folder |‌ ❌ | [GitHub 🐱](https://github.com/PapirusDevelopmentTeam/papirus-folders) | - | - | - |
 | Applet: Reduce Blue Color 👁️ | QRedshiftCinnamon | ❌ | [GitHub 🐱](https://github.com/raphaelquintao/QRedshiftCinnamon) | - | - | - |
-| Extension:‌ Open/Close Window 🔥 | CinnamonBurnMyWindows | ❌ | [GitHub 🐱](https://github.com/linuxmint/cinnamon-spices-extensions/tree/master/CinnamonBurnMyWindows@klangman) | - | - | - |
+| Extension:‌ Open/Close Window 🔥 | Burn My Windows | ❌ | [GitHub 🐱](https://github.com/linuxmint/cinnamon-spices-extensions/tree/master/CinnamonBurnMyWindows@klangman) | - | - | - |
 | Extension:‌ Mini/Maximize Window 🌓 | Magic Lamp Effect | ❌ | [GitHub 🐱](https://github.com/linuxmint/cinnamon-spices-extensions/tree/master/CinnamonMagicLamp@klangman) | - | - | - |
 | Extension:‌ Switch Workspaces | Fliper | ❌ | [GitHub 🐱](https://github.com/linuxmint/cinnamon-spices-extensions/tree/master/Flipper@connerdev) | - | - | - |
 
