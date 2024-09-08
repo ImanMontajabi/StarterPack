@@ -11,7 +11,7 @@
 
 |   | Name |‌ Website | Source | Last Commit | Last Release | My Config |
 | - | ---- | ------- | ------ | ----------- | ------------ | --------- |
-| Music Player 🎧 | Amberol |‌ ❌ |‌ [Gnome 🦊](https://gitlab.gnome.org/World/amberol) | - | - | - |
+| Music Player 🎧 | Amberol |‌ ❌ |‌ [GitLab 🦊](https://gitlab.gnome.org/World/amberol) | - | - | - |
 | Password Manager 🔓 | BitWarden | [➡️➡️➡️](https://bitwarden.com/) | [GitHub 🐱](https://github.com/bitwarden/clients) | - | - | - |
 | Download Manager 📥 | FileCentipede | [➡️➡️➡️](https://filecxx.com) | [GitHub 🐱](https://github.com/filecxx/FileCentipede) | - | - | - |
 | Screenshot 🔥 | Flameshot | [➡️➡️➡️](https://flameshot.org) | [GitHub 🐱](https://github.com/flameshot-org/flameshot) | - | - | - |
@@ -27,9 +27,10 @@
 | Screen Record +‌ Live Stream 📷 |‌ OBS |‌ [➡️➡️➡️](https://obsproject.com) |‌ [GitHub 🐱](https://github.com/obsproject/obs-studio) | - | - | - |
 | Applet: Reduce Blue Color 👁️ | QRedshiftCinnamon | ❌ | [GitHub 🐱](https://github.com/raphaelquintao/QRedshiftCinnamon) | - | - | - |
 |  Vim-Based Text Editor 📄 | NeoVim | [➡️➡️➡️](https://neovim.io) |‌ [GitHub 🐱](https://github.com/neovim/neovim) | - | - | - |
-| Partition Editor 🗄️ | GParted | [➡️➡️➡️](https://gparted.org) | [Gnome 🦊](https://gitlab.gnome.org/GNOME/gparted) | - | - | - |
+| Partition Editor 🗄️ | GParted | [➡️➡️➡️](https://gparted.org) | [GitLab 🦊](https://gitlab.gnome.org/GNOME/gparted) | - | - | - |
 | Office (FOSS) 🗃️ |‌ Libre Office | [➡️➡️➡️](https://www.libreoffice.org) |‌ ❗ | - | - | - |
-| Calculator 🔢 |‌ Qalculate! | [➡️➡️➡️](http://qalculate.github.io/) |‌ [GitHub 🐱](https://github.com/Qalculate/qalculate-qt) | - | - | - |
+| Calculator 🔢 |‌ Qalculate! | [➡️➡️➡️](http://qalculate.github.io) |‌ [GitHub 🐱](https://github.com/Qalculate/qalculate-qt) | - | - | - |
+| Video Player 📼 |‌ VLC | [➡️➡️➡️](https://www.videolan.org/vlc) | [GitLab 🦊](https://code.videolan.org/videolan/vlc)
 
 
 </div>
