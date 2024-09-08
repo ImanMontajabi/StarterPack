@@ -25,6 +25,8 @@
 | Mind Map + Markdown 🪨 | Obsidian | [➡️➡️➡️](https://obsidian.md) | ❌ | - | - | - |
 | Clipboard Manager ✂️ | CopyQ | [➡️➡️➡️](https://hluk.github.io/CopyQ) |‌ [GitHub 🐱](https://github.com/hluk/CopyQ) | - | - | - |
 | Screen Record +‌ Live Stream 📷 |‌ OBS |‌ [➡️➡️➡️](https://obsproject.com) |‌ [GitHub 🐱](https://github.com/obsproject/obs-studio) | - | - | - |
+| Applet: Reduce Blue Color 👁️ | QRedshiftCinnamon | ❌ | [GitHub 🐱](https://github.com/raphaelquintao/QRedshiftCinnamon) | - | - | - |
+|  Vim-based text editor 📄 | NeoVim | [➡️➡️➡️](https://neovim.io/) |‌ [GitHub 🐱](https://github.com/neovim/neovim) | - | - | - |
 
 
 </div>
