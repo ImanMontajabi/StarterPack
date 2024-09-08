@@ -30,7 +30,7 @@
 | Partition Editor 🗄️ | GParted | [➡️➡️➡️](https://gparted.org) | [GitLab 🦊](https://gitlab.gnome.org/GNOME/gparted) | - | - | - |
 | Office (FOSS) 🗃️ |‌ Libre Office | [➡️➡️➡️](https://www.libreoffice.org) |‌ ❗ | - | - | - |
 | Calculator 🔢 |‌ Qalculate! | [➡️➡️➡️](http://qalculate.github.io) |‌ [GitHub 🐱](https://github.com/Qalculate/qalculate-qt) | - | - | - |
-| Video Player 📼 |‌ VLC | [➡️➡️➡️](https://www.videolan.org/vlc) | [GitLab 🦊](https://code.videolan.org/videolan/vlc)
+| Video Player 📼 |‌ VLC | [➡️➡️➡️](https://www.videolan.org/vlc) | [GitLab 🦊](https://code.videolan.org/videolan/vlc) | - | - | - |
 
 
 </div>
