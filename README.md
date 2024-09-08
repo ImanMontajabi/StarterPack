@@ -11,7 +11,6 @@
 </br>
 </br>
 
-<div align="center">
 
 ## IMAN's Linux Mint 🐉
 
@@ -43,13 +42,10 @@
 | Extension:‌ Mini-/Maximize Window 🌓 | Magic Lamp Effect | ❌ | [GitHub 🐱](https://github.com/linuxmint/cinnamon-spices-extensions/tree/master/CinnamonMagicLamp@klangman) | - | - | - |
 | Extension:‌ Switch Workspaces ↔️ | Flipper | ❌ | [GitHub 🐱](https://github.com/linuxmint/cinnamon-spices-extensions/tree/master/Flipper@connerdev) | - | - | - |
 
-</div>
-
 
 </br>
 </br>
 
-<div align="center">
   
 ## IMAN's Android 🤖
 
@@ -62,5 +58,4 @@
 | Update APKs 💎 |‌ Obtainium | [➡️➡️➡️](https://obtainium.imranr.dev) | [GitHub 🐱](https://github.com/ImranR98/Obtainium) | - | - | - |
 | Image Editor 🖼️ |‌ Image Toolbox | ❌ | [GitHub 🐱](https://github.com/T8RIN/ImageToolbox) | - | - | - | 
 
-</div>
 
