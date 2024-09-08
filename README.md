@@ -2,12 +2,12 @@
 
 # StarterPack 📦
 
-### my FOOSS (Free Or Open Source 😄) collection for Linux (Mint) and Android devices and + my personal config
+### my FOOSS (Free Or Open Source 😄) collection for Linux and Android devices and + my personal config
 </div>
 
 <div align="center">
 
-**Linux Mint** 🐉
+## Linux Mint 🐉
 
 |   | Name |‌ Website | Source | Last Commit | Last Release | My Config |
 | - | ---- | ------- | ------ | ----------- | ------------ | --------- |
