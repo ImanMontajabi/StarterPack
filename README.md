@@ -21,7 +21,7 @@
 | Screenshot 🔥 | Flameshot | [➡️➡️➡️](https://flameshot.org) | [GitHub 🐱](https://github.com/flameshot-org/flameshot) | - | - | - |
 | Share Files (AirDrop) 🔮 | LocalSend | [➡️➡️➡️](https://localsend.org) | [GitHub 🐱](https://github.com/localsend/localsend) | - | - | - |
 | Timer ⏳ | Timer | ❌ | [GitHub 🐱](https://github.com/vikdevelop/timer) | - | - | - |
-| Programming IDE 🧑‍💻 | JetBrains Toolbox | ❌ | ❌ | - | - | - |
+| Programming IDE 🧑‍💻 | JetBrains Toolbox | [➡️➡️➡️](https://www.jetbrains.com/toolbox-app) | ❌ | - | - | - |
 | Code Editor 👩‍💻 |‌ VS Code |‌ [➡️➡️➡️](https://code.visualstudio.com) | [GitHub 🐱](https://github.com/microsoft/vscode) | - | - | - |
 | Task Manager + Todoist + Nextcloud 🆒 | Planify | ❌ | [GitHub 🐱](https://github.com/alainm23/planify) | - | - | - |
 | Terminal Emulator 🧩 | Kitty | [➡️➡️➡️](https://sw.kovidgoyal.net/kitty) | [GitHub 🐱](https://github.com/kovidgoyal/kitty) | - | - | - |
@@ -57,7 +57,7 @@
 | YouTube Downloader 📥 | Seal | ❌ | [GitHub 🐱](https://github.com/JunkFood02/Seal) | - | - | - |
 | Password Manager 🔓 | BitWarden | [➡️➡️➡️](https://bitwarden.com) | [GitHub 🐱](https://github.com/bitwarden/android) | - | - | - |
 | Share Files (AirDrop) 🔮 | LocalSend | [➡️➡️➡️](https://localsend.org) | [GitHub 🐱](https://github.com/localsend/localsend) | - | - | - |
-| Update APKs 🧰 |‌ Obtainium | [➡️➡️➡️](https://obtainium.imranr.dev) | [GitHub 🐱](https://github.com/ImranR98/Obtainium) | - | - | - |
+| Update APKs 💎 |‌ Obtainium | [➡️➡️➡️](https://obtainium.imranr.dev) | [GitHub 🐱](https://github.com/ImranR98/Obtainium) | - | - | - |
 | Image Editor 🖼️ |‌ Image Toolbox | ❌ | [GitHub 🐱](https://github.com/T8RIN/ImageToolbox) | - | - | - | 
 
 </div>
