@@ -2,12 +2,16 @@
 
 # StarterPack 📦
 
-### my FOOSS (Free Or Open Source 😄) collection for Linux and Android devices and + my personal config
+#### My FOOSS (Free or Open Source 😄) Collection for Linux and Android Devices + My Personal Config
+#### Contributions and Pull Requests are welcome! Feel free to share your Starter Pack (e.g., for gaming, video editing, etc.).
 </div>
+
+</br>
+</br>
 
 <div align="center">
 
-## Linux Mint 🐉
+## IMAN's Linux Mint 🐉
 
 |   | Name |‌ Website | Source | Last Commit | Last Release | My Config |
 | - | ---- | ------- | ------ | ----------- | ------------ | --------- |
@@ -25,15 +29,27 @@
 | Mind Map + Markdown 🪨 | Obsidian | [➡️➡️➡️](https://obsidian.md) | ❌ | - | - | - |
 | Clipboard Manager ✂️ | CopyQ | [➡️➡️➡️](https://hluk.github.io/CopyQ) |‌ [GitHub 🐱](https://github.com/hluk/CopyQ) | - | - | - |
 | Screen Record +‌ Live Stream 📷 |‌ OBS |‌ [➡️➡️➡️](https://obsproject.com) |‌ [GitHub 🐱](https://github.com/obsproject/obs-studio) | - | - | - |
-| Applet: Reduce Blue Color 👁️ | QRedshiftCinnamon | ❌ | [GitHub 🐱](https://github.com/raphaelquintao/QRedshiftCinnamon) | - | - | - |
 |  Vim-Based Text Editor 📄 | NeoVim | [➡️➡️➡️](https://neovim.io) |‌ [GitHub 🐱](https://github.com/neovim/neovim) | - | - | - |
 | Partition Editor 🗄️ | GParted | [➡️➡️➡️](https://gparted.org) | [GitLab 🦊](https://gitlab.gnome.org/GNOME/gparted) | - | - | - |
 | Office (FOSS) 🗃️ |‌ Libre Office | [➡️➡️➡️](https://www.libreoffice.org) |‌ ❗ | - | - | - |
 | Calculator 🔢 |‌ Qalculate! | [➡️➡️➡️](http://qalculate.github.io) |‌ [GitHub 🐱](https://github.com/Qalculate/qalculate-qt) | - | - | - |
 | Video Player 📼 |‌ VLC | [➡️➡️➡️](https://www.videolan.org/vlc) | [GitLab 🦊](https://code.videolan.org/videolan/vlc) | - | - | - |
+| Icon Pack Theme 👔 | Papirus Icon |‌ ❌ | [GitHub 🐱](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) | - | - | - |
+| Folder Theme 👘 | Papirus Folder |‌ ❌ | [GitHub 🐱](https://github.com/PapirusDevelopmentTeam/papirus-folders) | - | - | - |
+| Applet: Reduce Blue Color 👁️ | QRedshiftCinnamon | ❌ | [GitHub 🐱](https://github.com/raphaelquintao/QRedshiftCinnamon) | - | - | - |
+| Extension:‌ Open/Close Window 🔥 | CinnamonBurnMyWindows | ❌ | [GitHub 🐱](https://github.com/linuxmint/cinnamon-spices-extensions/tree/master/CinnamonBurnMyWindows@klangman) | - | - | - |
+| Extension:‌ Mini/Maximize Window 🌓 | Magic Lamp Effect | ❌ | [GitHub 🐱](https://github.com/linuxmint/cinnamon-spices-extensions/tree/master/CinnamonMagicLamp@klangman) | - | - | - |
+| Extension:‌ Switch Workspaces | Fliper | ❌ | [GitHub 🐱](https://github.com/linuxmint/cinnamon-spices-extensions/tree/master/Flipper@connerdev) | - | - | - |
+
+</div>
 
 
-## Android 🤖
+</br>
+</br>
+
+<div align="center">
+  
+## IMAN's Android 🤖
 
 |   | Name |‌ Website | Source | Last Commit | Last Release | My Config |
 | - | ---- | ------- | ------ | ----------- | ------------ | --------- |
