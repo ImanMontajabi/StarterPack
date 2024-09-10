@@ -52,6 +52,7 @@
 |   | Name |‌ Website | Source | Last Commit | Last Release | My Config |
 | - | ---- | ------- | ------ | ----------- | ------------ | --------- |
 | YouTube Alternative 📺 |‌ LibreTube | [➡️➡️➡️](https://libretube.dev) |‌ [GitHub 🐱](https://github.com/libre-tube/LibreTube) | - | - | - |
+| YouTube Alternative 📺📺 | SkyTube | ❌ | [GitHub 🐱](https://github.com/SkyTubeTeam/SkyTube) | - | - | - |
 | YouTube Downloader 📥 | Seal | ❌ | [GitHub 🐱](https://github.com/JunkFood02/Seal) | - | - | - |
 | Password Manager 🔓 | BitWarden | [➡️➡️➡️](https://bitwarden.com) | [GitHub 🐱](https://github.com/bitwarden/android) | - | - | - |
 | Share Files (AirDrop) 🔮 | LocalSend | [➡️➡️➡️](https://localsend.org) | [GitHub 🐱](https://github.com/localsend/localsend) | - | - | - |
@@ -59,5 +60,6 @@
 | Image Editor 🖼️ |‌ Image Toolbox | ❌ | [GitHub 🐱](https://github.com/T8RIN/ImageToolbox) | - | - | - |
 | Android Persian Calendar 📆 |‌ Persian Calendar | ❌ | [GitHub 🐱](https://github.com/persian-calendar/persian-calendar) | - | - | - |
 | Music Player 🎵 | Namida |‌ ❌ | [GitHub 🐱](https://github.com/namidaco/namida) | - | - | - |
+
 
 
