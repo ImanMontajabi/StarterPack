@@ -58,5 +58,6 @@
 | Update APKs 💎 |‌ Obtainium | [➡️➡️➡️](https://obtainium.imranr.dev) | [GitHub 🐱](https://github.com/ImranR98/Obtainium) | - | - | - |
 | Image Editor 🖼️ |‌ Image Toolbox | ❌ | [GitHub 🐱](https://github.com/T8RIN/ImageToolbox) | - | - | - |
 | Android Persian Calendar 📆 |‌ Persian Calendar | ❌ | [GitHub 🐱](https://github.com/persian-calendar/persian-calendar) | - | - | - |
+| Music Player 🎵 | Namida |‌ ❌ | [GitHub 🐱](https://github.com/namidaco/namida) | - | - | - |
 
 
