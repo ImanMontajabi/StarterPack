@@ -36,6 +36,7 @@
 | Calculator 🔢 |‌ Qalculate! | [➡️➡️➡️](http://qalculate.github.io) |‌ [GitHub 🐱](https://github.com/Qalculate/qalculate-qt) | - | - | - |
 | Video Player 📼 |‌ VLC | [➡️➡️➡️](https://www.videolan.org/vlc) | [GitLab 🦊](https://code.videolan.org/videolan/vlc) | - | - | - |
 | Icon Pack Theme 👔 | Papirus Icon |‌ ❌ | [GitHub 🐱](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) | - | - | - |
+| Dark theme for GTK 🧛🏻‍♂️ | Dracula Theme | [➡️➡️➡️](https://draculatheme.com/gtk) | [GitHub 🐱](https://github.com/dracula/gtk) | - | - | - |
 | Folder Theme 👘 | Papirus Folder |‌ ❌ | [GitHub 🐱](https://github.com/PapirusDevelopmentTeam/papirus-folders) | - | - | - |
 | Applet: Reduce Blue Color 👁️ | QRedshift | ❌ | [GitHub 🐱](https://github.com/raphaelquintao/QRedshiftCinnamon) | - | - | - |
 | Extension:‌ Open/Close Window 🔥 | Burn My Windows | ❌ | [GitHub 🐱](https://github.com/linuxmint/cinnamon-spices-extensions/tree/master/CinnamonBurnMyWindows@klangman) | - | - | - |
