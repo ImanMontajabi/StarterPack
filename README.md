@@ -26,6 +26,7 @@
 | Code Editor 👩‍💻 |‌ VS Code |‌ [➡️➡️➡️](https://code.visualstudio.com) | [GitHub 🐱](https://github.com/microsoft/vscode) | - | - | - |
 | Task Manager + Todoist + Nextcloud 🆒 | Planify | ❌ | [GitHub 🐱](https://github.com/alainm23/planify) | - | - | - |
 | Terminal Emulator 🧩 | Kitty | [➡️➡️➡️](https://sw.kovidgoyal.net/kitty) | [GitHub 🐱](https://github.com/kovidgoyal/kitty) | - | - | - |
+| Config Bash 🛼 |‌ Oh my Bash | ❌ | [GitHub 🐱](https://github.com/ohmybash/oh-my-bash) | - | - | - |
 | Application Launcher 🚀 | Ulauncher | [➡️➡️➡️](https://ulauncher.io) | [GitHub 🐱](https://github.com/Ulauncher/Ulauncher) | - | - | - |
 | Mind Map + Markdown 🪨 | Obsidian | [➡️➡️➡️](https://obsidian.md) | ❌ | - | - | - |
 | Clipboard Manager ✂️ | CopyQ | [➡️➡️➡️](https://hluk.github.io/CopyQ) |‌ [GitHub 🐱](https://github.com/hluk/CopyQ) | - | - | - |
